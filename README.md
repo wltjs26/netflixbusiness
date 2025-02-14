@@ -1,6 +1,9 @@
 # Netflix Business Analysis
 
 ## 📊 Content by Country
+The United States, India, the UK, and Canada have the highest number of Netflix titles.
+The U.S. dominates in both movies and TV shows.
+India has a significantly higher proportion of movies compared to TV shows.
 
 ![Content by Country](graphs/country_content.png)
 
