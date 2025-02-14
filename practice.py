@@ -1,6 +1,11 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+# Ensure the graphs directory exists
+if not os.path.exists("graphs"):
+    os.makedirs("graphs")
 
 # Load the dataset
 file_path = r"D:\다운로드\datasets\datasets\netflix_data.csv"  # Update as needed
