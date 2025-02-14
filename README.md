@@ -3,6 +3,8 @@
 
 ## 📊 Content by Country
 ![Content by Country](graphs/country_content.png)
+![Content by Country](https://raw.githubusercontent.com/wltjs26/netflixbusiness/main/graphs/country_content.png)
+
 
 ## 🎬 Movie Release Trends
 ![Movies Per Year](graphs/movies_per_year.png)
